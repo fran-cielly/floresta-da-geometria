@@ -25,7 +25,7 @@ public class cenaInicial : MonoBehaviour
             dialogoJogador.text = cenaInicialDialogoJogador[frase];
 
         }else{
-            SceneManager.LoadScene("Cena1Jogo");
+            SceneManager.LoadScene("Cena1");
         }
 
         frase++;

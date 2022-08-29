@@ -12,12 +12,21 @@ EditorBuildSettings:
     path: Assets/Scenes/CenaInicial.unity
     guid: 5afe94cdd535d744b862031e9ab01b1c
   - enabled: 0
-    path: Assets/Scenes/Cena1.unity
-    guid: da2aa144d652bfb44874a1462c353b76
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 1
-    path: Assets/Scenes/CenaJogo1.unity
-    guid: 75aa30c99b828034cb14a176f11e60ed
+    path: Assets/Scenes/Cena1.unity
+    guid: 3f4c391f396c1cc41b8d9009afc57158
+  - enabled: 1
+    path: Assets/Scenes/CenaPerguntas1.unity
+    guid: 7d1c641aff4629b4fa926f5af891f649
   - enabled: 1
     path: Assets/Scenes/ARCenaJogo1.unity
     guid: ea8621c2306a9c14e9ddf5925b42fc97
+  - enabled: 1
+    path: Assets/Scenes/CenaResultado1.unity
+    guid: d65f29b598a50b64eb36f112f074f12a
   m_configObjects: {}
